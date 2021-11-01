@@ -1,1 +1,2 @@
 ConflictTest for ConflictTest.txt v1
+ConflictTest for ConflictTest.txt v2
