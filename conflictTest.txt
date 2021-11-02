@@ -2,3 +2,5 @@ ConflictTest for ConflictTest.txt v1
 ConflictTest for ConflictTest.txt v2
 ConflictTest for ConflictTest.txt v3
 ConflictTest for ConfilctTest.txt v4 from origin
+ConflictTest for ConflictTest.txt v4 from master
+
